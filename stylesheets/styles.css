@@ -55,11 +55,11 @@
 }
 
 body {
-  background-color: #fff;
+  background-color: #DDD7CE;
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#727272;
-  font-weight:400;
+  color:#756B59;
+  font-weight:0D0707;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -88,12 +88,12 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#39c;
+  color:#756B59;
   text-decoration:none;
 }
 
 a:hover {
-  color:#069;
+  color:#7A0C0C;
 }
 
 a small {
